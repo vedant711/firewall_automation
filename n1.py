@@ -48,7 +48,7 @@ if __name__ == '__main__':
             'username': username,
             'password': password,
             'port': 22,
-            'secret': '1234@Organization',
+            'secret': 'secret',
             'verbose': False,
         }
 
